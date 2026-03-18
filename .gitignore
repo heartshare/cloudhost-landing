@@ -9,3 +9,27 @@ Thumbs.db
 # Temp
 *.tmp
 *.log
+*.temp
+
+# Boss working files
+.boss/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+ENV/
+
+# Large skill files
+.agents/skills/
+# skills/
+!skills/vision/
